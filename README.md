@@ -19,8 +19,8 @@ Name | Description
 
 Name | Status
 ---- | ------
-[CDorst.Addresses.StateCities](https://github.com/CDorst/Addresses.StateCities) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst/addresses-statecities.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst/addresses-statecities) [![NuGet package status](https://img.shields.io/nuget/v/CDorst.Addresses.StateCities.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst.Addresses.StateCities)
 [CDorst.Addresses.Cities.DatabaseContext](https://github.com/CDorst/Addresses.Cities.DatabaseContext) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst/addresses-cities-databasecontext.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst/addresses-cities-databasecontext) [![NuGet package status](https://img.shields.io/nuget/v/CDorst.Addresses.Cities.DatabaseContext.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst.Addresses.Cities.DatabaseContext)
+[CDorst.Addresses.StateCities](https://github.com/CDorst/Addresses.StateCities) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst/addresses-statecities.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst/addresses-statecities) [![NuGet package status](https://img.shields.io/nuget/v/CDorst.Addresses.StateCities.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst.Addresses.StateCities)
 
 ## Dependents
 
@@ -38,7 +38,7 @@ This project is published as a NuGet package at [https://www.nuget.org/packages/
 
 ## Version
 
-1.0.4
+1.0.5
 
 ## Metaproject
 
